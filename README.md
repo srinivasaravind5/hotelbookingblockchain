@@ -1,5 +1,4 @@
-# hotelbookingblockchain
-Simple Hotel Booking Application using Blockchain
+# Simple Hotel Booking Application using Blockchain
 
 Online Hotel Booking
 
